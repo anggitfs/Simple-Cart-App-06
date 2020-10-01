@@ -1,2 +1,2 @@
-# Simple_Cart_App_06
+# Simple-Cart-App-06
 Tugas Pengujian Perangkat Lunak - Simple Cart App
